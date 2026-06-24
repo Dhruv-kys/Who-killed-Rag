@@ -1,5 +1,6 @@
 ### Reranker
 
+```
 PDF (arXiv paper)
       │  PyPDFLoader → 16 page chunks (Documents)
       ▼
@@ -20,3 +21,4 @@ PDF (arXiv paper)
       │
       ▼
    RAGAS evaluation (context_precision/recall, faithfulness, answer_relevancy)
+   ```
